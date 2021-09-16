@@ -1,4 +1,4 @@
-# CS50 Final Project あなたの勉強部屋 <br>-YOUR STUDY ROOM-</br>
+# CS50 Final Project あなたの勉強部屋 -YOUR STUDY ROOM-
 
 私が制作した「あなたの勉強部屋」は、キャラクターと一緒に勉強ができるタイマーです。
 <br>ページの見た目を作るのにはHTML / CSSを、タイマー部分やキャラクターを動かす少しのアニメーションを作るのにはjQueryを使用しています。</br>
