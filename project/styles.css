@@ -1,0 +1,48 @@
+/*共通事項*/
+html
+{
+    font-size: 100%;
+}
+
+body
+{
+    background-color: #140414;
+    background-image: url(images/Books_Android_resize.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.timer-wrapper
+{
+    margin: 10%;
+    padding-top: 2%;
+    background: rgba(239,239,239,0.8);
+    border-radius: 5px;
+    text-align: center;
+}
+
+.button
+{
+  display: flex; /* ボタン横並び */
+  justify-content: space-between;
+  padding: 3%;
+}
+
+.balloon
+{
+     width: 80%;
+     height: 20%;
+     position: absolute;
+     bottom:9%;
+     right: 10%;
+     background: white;
+}
+
+#timer-holder
+{
+    cursor:pointer;
+    width: 35%;
+    position:absolute;
+    bottom:0%;
+    right:0%;
+}
