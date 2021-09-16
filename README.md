@@ -3,14 +3,14 @@
 私が制作した「あなたの勉強部屋」は、キャラクターと一緒に勉強ができるタイマーです。
 <br>ページの見た目を作るのにはHTML / CSSを、タイマー部分やキャラクターを動かす少しのアニメーションを作るのにはjQueryを使用しています。</br>
 
-[Youtubeでデモを見る](https://youtu.be/oWSy3dKHDfk)
-[「あなたの勉強部屋」に行ってみる](https://mikalla.github.io/CS50-FinalProject/)
+<br>[Youtubeでデモを見る](https://youtu.be/oWSy3dKHDfk)</br>
+<br>[「あなたの勉強部屋」に行ってみる](https://mikalla.github.io/CS50-FinalProject/)</br>
 
 The ***YOUR STUDY ROOM*** I created is a timer that allows you to study with character.
 <br>I use HTML / CSS to make the page look, and jQuery to make a little animation that moves the timer part and the character.</br>
 
-[Video Demo](https://youtu.be/oWSy3dKHDfk)
-[Visit ***YOUR STUDY ROOM***](https://mikalla.github.io/CS50-FinalProject/)
+<br>[Video Demo](https://youtu.be/oWSy3dKHDfk)</br>
+<br>[Visit ***YOUR STUDY ROOM***](https://mikalla.github.io/CS50-FinalProject/)</br>
 
 ## How the webpage works?
 「あなたの勉強部屋」にはあなたを出迎えてくれるキャラクターがいます。
