@@ -1,13 +1,11 @@
 # CS50 Final Project あなたの勉強部屋 -YOUR STUDY ROOM-
 
-私が制作した「あなたの勉強部屋」は、キャラクターと一緒に勉強ができるタイマーです。
-<br>ページの見た目を作るのにはHTML / CSSを、タイマー部分やキャラクターを動かす少しのアニメーションを作るのにはjQueryを使用しています。</br>
+私が制作した「あなたの勉強部屋」は、キャラクターと一緒に勉強ができるタイマーです。ページの見た目を作るのにはHTML / CSSを、タイマー部分やキャラクターを動かす少しのアニメーションを作るのにはjQueryを使用しています。
 
 <br>[Youtubeでデモを見る](https://youtu.be/oWSy3dKHDfk)</br>
 <br>[「あなたの勉強部屋」に行ってみる](https://mikalla.github.io/CS50-FinalProject/)</br>
 
-The ***YOUR STUDY ROOM*** I created is a timer that allows you to study with character.
-<br>I use HTML / CSS to make the page look, and jQuery to make a little animation that moves the timer part and the character.</br>
+The ***YOUR STUDY ROOM*** I created is a timer that allows you to study with character. I use HTML / CSS to make the page look, and jQuery to make a little animation that moves the timer part and the character.
 
 <br>[Video Demo](https://youtu.be/oWSy3dKHDfk)</br>
 <br>[Visit ***YOUR STUDY ROOM***](https://mikalla.github.io/CS50-FinalProject/)</br>
@@ -24,7 +22,7 @@ When you arrive at the homepage of this website ***YOUR STURDY ROOM***, you will
 - Stop breaking (function "Restart")
 - Stop studying (function "Reset")
 
-Also, there is a character in ***YOUR STUDY ROOM*** who will welcome you.　You should be able to see the character at the bottom of the screen. When you press the "start study" button and activate the timer, the character will also start studying with you. You can also have a little chat by touching the character. When you press the "Stop Studying" button to stop studying, the character will say what you want.
+Also, there is a character in ***YOUR STUDY ROOM*** who will welcome you. You should be able to see the character at the bottom of the screen. When you press the "start study" button and activate the timer, the character will also start studying with you. You can also have a little chat by touching the character. When you press the "Stop Studying" button to stop studying, the character will say what you want.
 
 ## Possible improvements
 <br>今後の課題として、以下のような機能が追加できると考えています。</br>
