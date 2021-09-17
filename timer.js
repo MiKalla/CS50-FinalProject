@@ -17,13 +17,13 @@ $(function()
         timer = setInterval(countup, 1000);
 
         //イラスト切り替え&台詞隠し
-        $('#timer-holder').attr('src','images/timer-holder1.png').fadeIn;
+        $('#timer-holder').attr('src','images/timer-holder1.png').fadeIn('srow');
         $('#talk').html('');
 
         //クリック時、台詞再表示&イラスト切り替え
         $('#timer-holder').click(function()
         {
-            $('#timer-holder').attr('src','images/timer-holder2.png').fadeIn;
+            $('#timer-holder').attr('src','images/timer-holder2.png').fadeIn('srow');
             $('#timer-holder').click(function()
             {
                 const number = Math.ceil(Math.random()*2);
@@ -35,16 +35,16 @@ $(function()
                 {
                     $('#talk').html('疲れちゃったの？');
                 }
+                //2秒後、イラスト切り替え&台詞隠し
+                setTimeout(function()
+                {
+                    $('#timer-holder').attr('src','images/timer-holder1.png').fadeIn('srow');
+                    $('#talk').html('');
+                }, 2000);
+
             });
 
         });
-
-        //2秒後、イラスト切り替え&台詞隠し
-        setTimeout(function()
-        {
-            $('#timer-holder').attr('src','images/timer-holder1.png').fadeIn;
-            $('#talk').html('');
-        },2000);
 
         $(this).prop('disabled', true);
         $('#stop,#reset').prop('disabled', false);
