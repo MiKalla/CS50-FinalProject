@@ -24,18 +24,20 @@ Also, there is a character in ***YOUR STUDY ROOM*** who will welcome you. You sh
 
 ## Possible improvements
 <br>今後の課題として、以下のような機能が追加できると考えています。</br>
-1. 勉強中(タイマー稼働中)にBGMを流す機能
+1. 勉強した時間を記録すること 
 2. 勉強した時間に応じてご褒美アイテムがもらえる機能およびそれを保存すること
-3. 一緒に勉強できるキャラクターの追加
-4. キャラクターとのおしゃべりをより豊かなものにすること
-5. キャラクターの見た目を変更できる機能
+3. キャラクターとのおしゃべりをより豊かなものにすること
+4. 勉強中(タイマー稼働中)にBGMを流す機能
+5. 一緒に勉強できるキャラクターの追加 
+6. キャラクターの見た目を変更できる機能
 
 <br>As a future task, I would like to add the following functions.</br>
-1. Play BGM while timer is running(sturdying)
+1. Record the time you studied
 2. Functions to receive reward items according to the time studied and to save them
-3. Add the characters that we can studying together
-4. Enriching chat with characters
-5. Ability to change the appearance of the character
+3. Enriching chat with characters
+4. Play BGM while timer is running(sturdying)
+5. Add the characters that we can studying together
+6. Ability to change the appearance of the character
 
 ## Philosophy
 私はこの作品を、勉強を頑張るすべての人の癒やしと安らぎの場所にしたいと思って制作しました。
